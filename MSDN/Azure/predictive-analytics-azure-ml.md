@@ -1,3 +1,19 @@
+---
+title: Cloud-based Predictive Analytics with Azure Machine Learning
+description: There are Machine Learning techniques that can be used to make such predictions. In this article I will show how you can create a cloud-based predictive analytics solution with Azure Machine Learning.
+author: MSCommunityPubService
+ms.author: walteros
+ms.date: 11/22/2016
+ms.topic: article
+ms.prod: 
+ms.technology: 
+ms.service: Azure
+ms.custom: CommunityDocs
+---
+
+##**Fernando de Oliveira**
+**Modern Apps Microsoft**
+
 # Cloud-based Predictive Analytics with Azure Machine Learning
 
 What if you could predict stock prices based on market movement? Or if patients would be at risk of developing certain conditions (like diabetes, asthma and heart disease)? Or even if you could detect fraud?
