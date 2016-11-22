@@ -1,3 +1,21 @@
+---
+title: Creating Bots with Azure Bot Service
+description: Industry’s first cloud Bot-as-a-Service, **Azure Bot Service** is a platform that accelerates bot's development. 
+It is an integrated environment that enables us to register, build, deploy and manage intelligent bots at once. 
+author: MSCommunityPubService
+ms.author: walteros
+ms.date: 11/22/2016
+ms.topic: article
+ms.prod: 
+ms.technology: 
+ms.service: Azure
+ms.custom: CommunityDocs
+---
+
+
+##**Fernando de Oliveira**
+**Modern Apps Microsoft**
+
 # Creating Bots with Azure Bot Service
 
 Industry’s first cloud Bot-as-a-Service, **Azure Bot Service** is a platform that accelerates bot's development. 
