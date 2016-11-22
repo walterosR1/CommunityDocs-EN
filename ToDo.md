@@ -1,4 +1,4 @@
-# Repo for MSDN & Technet Library Spanish-speaking community project (formerly known as MINITEL)
+# Repo for MSDN & Technet Library English-speaking community project (formerly known as MINITEL)
 
 ##TODO (now): 
 - DONE -> we should probably remove the /articles/ folder and just put topic-specific folders one level up (to reduce length of URL)
