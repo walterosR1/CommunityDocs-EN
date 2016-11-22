@@ -1,18 +1,4 @@
 ---
-title: Creating Bots with Azure Bot Service
-description: Industry’s first cloud Bot-as-a-Service, Azure Bot Service is a platform that accelerates bot's development. 
-It is an integrated environment that enables us to register, build, deploy and manage intelligent bots at once. 
-author: MSCommunityPubService
-ms.author: walteros
-ms.date: 11/22/2016
-ms.topic: article
-ms.prod: 
-ms.technology: 
-ms.service: Azure
-ms.custom: CommunityDocs
----
-
----
 title: Crie um Experimento com o Azure Machine Learning
 description: A Microsoft tem disponível aos assinantes do Azure uma máquina de aprendizado, chamada de Azure Machine Learning, o qual permite simular uma infinidade de cenários estatísticos a partir de uma base de dados. O objetivo deste artigo é guia-los passo a passo na montagem de um experimento através da aplicação de um modelo de regressão linear.
 author: MSCommunityPubService
