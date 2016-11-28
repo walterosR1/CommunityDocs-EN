@@ -1,4 +1,5 @@
 # [Technical Articles](index.md)
+## [Azure](Azure/TOC.md)
 ## [Cloud Development](Cloud/TOC.md)
 ## [.NET Development](Netdev/TOC.md)
 ## [Web Development](Webdev/TOC.md)
